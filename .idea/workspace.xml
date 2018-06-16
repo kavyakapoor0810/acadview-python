@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4afd6771-589a-4505-af12-1a253bd8d413" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/15 june class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4afd6771-589a-4505-af12-1a253bd8d413" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15 june class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15 june class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="assignment3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="382">
               <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="try class data types.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try class data types.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -66,7 +45,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="180" />
-    <option name="y" value="-14" />
+    <option name="y" value="-15" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
