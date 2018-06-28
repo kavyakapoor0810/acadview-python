@@ -1,13 +1,81 @@
-class AgeError(Exception):
-    pass
+#question1
 
 try:
-    count=0
-    while(count<18):
-        a = int(input("enter age"))
-        if(a<18):
-         raise AgeError
+    a=3
+    if(a<4):
+        a=a/(a-3)
+        raise handle
+except ZeroDivisionError:
+    print("zero division error")
+#it is zero division error
+
+#question2
+try:
+    import megha
+    l=[1,2,3]
+    print(l[3])
+except Exception:
+    print("index error")
+#it is index error
+
+#question3
+try:
+    raise NameError("hi there")
+except NameError:
+    print("An exception")
+
+#question4
+def abyB(a ,b):
+    try:
+        c =((a+b) / (a-b))
+    except ZeroDivisionError:
+        print("a/b result in 0")
+    else:
+        print(c)
+#driver program to test above function
+
+abyB(2.0 ,3.0)
+abyB(3.0 ,3.0)
+
+#question5
+#import error
+try:
+    import Megha
+except ImportError:
+    print("enter a import file")
+#value error
+try:
+    a = int(input("enter no"))
 except ValueError:
     print("please enter Int")
-except AgeError:
-    print("age is nt right")
+
+#question6
+class Ageerror(Exception):
+    pass
+a=True
+while(a):
+    try:
+        age=int(input("enter age"))
+        if(age>=18):
+            a=False
+            raise Ageerror
+        else:
+            print(age)
+    except Ageerror:
+        print("age is greater than 18")
+    except ValueError:
+        print("only int allowed")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
