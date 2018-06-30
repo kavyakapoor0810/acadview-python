@@ -1,4 +1,4 @@
-
+'''
 #question1
 
 f=open("text.txt","r")
@@ -16,18 +16,19 @@ f=open("text.txt","r")
 k=f.read()
 m=k.split()
 print(k.count(a))
-
+'''
 #question3
 
 f=open("text.txt","r")
 a=(f.readlines())
 c=open("text2.txt","w")
 c.writelines(a)
-
+'''
 #question4
 i=0
 f=open("text.txt","r")
 a=(f.read())
+'''
 
 
 

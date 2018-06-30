@@ -8,3 +8,7 @@ hello
 4
 8
 10
+ab
+bc
+cd
+kill
