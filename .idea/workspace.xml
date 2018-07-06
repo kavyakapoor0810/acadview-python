@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35133-63b2-4585-82d9-1c94446cd47b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment 18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine learning 5 july.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6th july class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Assignment 18.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Assignment 18.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment 18.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+            <state relative-caret-position="731">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6th july class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6th july class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment19.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample1.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -64,6 +92,10 @@
         <option value="$PROJECT_DIR$/Assignment17.py" />
         <option value="$PROJECT_DIR$/machine learning 5 july.py" />
         <option value="$PROJECT_DIR$/Assignment 18.py" />
+        <option value="$PROJECT_DIR$/sample.csv.py" />
+        <option value="$PROJECT_DIR$/sample1.csv" />
+        <option value="$PROJECT_DIR$/6th july class.py" />
+        <option value="$PROJECT_DIR$/Assignment19.py" />
       </list>
     </option>
   </component>
@@ -97,8 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assignment 18">
-    <configuration name="4th july class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Assignment19">
+    <configuration name="6th july class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4th july class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6th july class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,24 +166,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Assignment16" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="assignment" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Assignment17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +179,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Assignment19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,19 +221,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Assignment16" />
-      <item itemvalue="Python.4th july class" />
       <item itemvalue="Python.Assignment17" />
       <item itemvalue="Python.machine learning 5 july" />
       <item itemvalue="Python.Assignment 18" />
+      <item itemvalue="Python.6th july class" />
+      <item itemvalue="Python.Assignment19" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Assignment19" />
+        <item itemvalue="Python.6th july class" />
         <item itemvalue="Python.Assignment 18" />
         <item itemvalue="Python.machine learning 5 july" />
         <item itemvalue="Python.Assignment17" />
-        <item itemvalue="Python.4th july class" />
-        <item itemvalue="Python.Assignment16" />
       </list>
     </recent_temporary>
   </component>
@@ -270,27 +302,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/try class data types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15 june class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try class data types.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -598,8 +609,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment 18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="731">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6th july class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
