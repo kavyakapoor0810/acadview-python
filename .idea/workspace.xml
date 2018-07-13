@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35133-63b2-4585-82d9-1c94446cd47b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/9 july.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/editor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/megha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meghapygane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text editor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahuja.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahuja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/new_file.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management.py" beforeDir="false" afterPath="$PROJECT_DIR$/management.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/megha.py" beforeDir="false" afterPath="$PROJECT_DIR$/megha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meghapygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/meghapygame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,22 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="editor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/editor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="megha.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/megha.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="37" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -49,26 +32,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pygame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygame.py">
+      <file leaf-file-name="project1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="1938">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meghapygame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meghapygame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
               <folding>
-                <element signature="e#11#44#0" expanded="true" />
-                <marker date="1531312514129" expanded="true" signature="377:382" ph="..." />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meghapygane.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meghapygane.py">
+      <file leaf-file-name="management.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/management.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="17">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
               <folding>
-                <element signature="e#7#20#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keys.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keys.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="34" selection-end-line="3" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -120,16 +121,19 @@
         <option value="$PROJECT_DIR$/sample1.csv" />
         <option value="$PROJECT_DIR$/6th july class.py" />
         <option value="$PROJECT_DIR$/Assignment19.py" />
-        <option value="$PROJECT_DIR$/project.py" />
         <option value="$PROJECT_DIR$/9 july.py" />
         <option value="$PROJECT_DIR$/text editor.py" />
         <option value="$USER_HOME$/Desktop/Text editor GUI/TextEditor/test2.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/project1.py" />
         <option value="$PROJECT_DIR$/editor.py" />
-        <option value="$PROJECT_DIR$/pygame.py" />
         <option value="$PROJECT_DIR$/meghapygane.py" />
+        <option value="$PROJECT_DIR$/management.py" />
+        <option value="$PROJECT_DIR$/ahuja.py" />
+        <option value="$PROJECT_DIR$/project.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/megha.py" />
+        <option value="$PROJECT_DIR$/pygame.py" />
+        <option value="$PROJECT_DIR$/meghapygame.py" />
       </list>
     </option>
   </component>
@@ -144,11 +148,49 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="car.png" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="F:/Text editor GUI" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\assignment\car.png" />
+      <recent name="D:\assignment" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +205,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.megha">
-    <configuration name="editor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ahuja" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,13 +217,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/editor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ahuja.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="megha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="management" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/management.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="megha" type="PythonConfigurationType" factoryName="Python">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,7 +259,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="meghapygane" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="meghapygame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,13 +271,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meghapygane.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meghapygame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pygame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,19 +314,20 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.project1" />
       <item itemvalue="Python.megha" />
-      <item itemvalue="Python.editor" />
-      <item itemvalue="Python.meghapygane" />
+      <item itemvalue="Python.management" />
+      <item itemvalue="Python.meghapygame" />
+      <item itemvalue="Python.ahuja" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.pygame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.megha" />
-        <item itemvalue="Python.editor" />
-        <item itemvalue="Python.meghapygane" />
-        <item itemvalue="Python.project1" />
+        <item itemvalue="Python.management" />
+        <item itemvalue="Python.meghapygame" />
+        <item itemvalue="Python.pygame" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.ahuja" />
       </list>
     </recent_temporary>
   </component>
@@ -284,15 +345,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1829427" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16060807" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.016949153" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14830509" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33898306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -307,19 +368,19 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33898306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1829427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16060807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40677965" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32909605" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39808482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39689267" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.016949153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -354,56 +415,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/21 june class.py">
+    <entry file="file://$PROJECT_DIR$/megha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="18" selection-end-line="23" />
+        <state relative-caret-position="3825">
+          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="227" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22 JUNE CLASS.py">
+    <entry file="file://$PROJECT_DIR$/project1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state relative-caret-position="1938">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/Assignment9.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/Assignment 9.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/Assignment 10.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/assignment10.py" />
-    <entry file="file://$PROJECT_DIR$/26 june class.py">
+    <entry file="file://$PROJECT_DIR$/meghapygame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="799">
+          <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 2.py">
+    <entry file="file://$PROJECT_DIR$/keys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -418,13 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -575,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class 2nd july.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -631,13 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Text editor GUI/TextEditor/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="337" lean-forward="true" selection-start-line="337" selection-end-line="337" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Text editor GUI/TextEditor/test2.py" />
     <entry file="file://$USER_HOME$/Desktop/Text editor GUI/TextEditor/TextEditor.pyw">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -645,53 +667,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/meghapygane.py" />
+    <entry file="file://$PROJECT_DIR$/ahuja.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="34" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="108" column="23" lean-forward="true" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame.py" />
     <entry file="file://$PROJECT_DIR$/project1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="1938">
           <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pygame.py">
+    <entry file="file://$PROJECT_DIR$/meghapygame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="230">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding>
-            <element signature="e#11#44#0" expanded="true" />
-            <marker date="1531312514129" expanded="true" signature="377:382" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meghapygane.py">
+    <entry file="file://$PROJECT_DIR$/management.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="17">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
           <folding>
-            <element signature="e#7#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/megha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="37" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
